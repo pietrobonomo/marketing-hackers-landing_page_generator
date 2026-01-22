@@ -1,13 +1,31 @@
-# 🚀 AI Landing Page Generator
+# 🚀 AI Landing Page Generator by Marketing Hackers
 
-**Genera landing page professionali in minuti, non giorni.**
+<p align="center">
+  <strong>Genera landing page professionali in minuti, non giorni.</strong>
+</p>
+
+<p align="center">
+  <a href="https://marketinghackers.it">
+    <img src="https://img.shields.io/badge/Made%20by-Marketing%20Hackers-blue?style=for-the-badge" alt="Made by Marketing Hackers">
+  </a>
+  <a href="https://github.com/pietrobonomo/marketinghackers-landing-generator/stargazers">
+    <img src="https://img.shields.io/github/stars/pietrobonomo/marketinghackers-landing-generator?style=for-the-badge&color=yellow" alt="GitHub Stars">
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" alt="Next.js">
+  </a>
+  <a href="https://vercel.com">
+    <img src="https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel" alt="Deploy with Vercel">
+  </a>
+</p>
+
+<p align="center">
+  <b>⭐ Se questo progetto ti è utile, lascia una stella! Ci aiuta a crescere.</b>
+</p>
+
+---
 
 Un sistema modulare che permette a qualsiasi AI agent (anche modelli locali) di creare landing page complete partendo da un semplice brief testuale.
-
-[![Made by Marketing Hackers](https://img.shields.io/badge/Made%20by-Marketing%20Hackers-blue?style=for-the-badge)](https://marketinghackers.it)
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
 
 ---
 
@@ -78,8 +96,8 @@ Agent fa: split('•') → 3 features con name esatto
 ### 1. Clona il Repository
 
 ```bash
-git clone https://github.com/pietrobonomo/landing_page_scheme_cursor.git
-cd landing_page_scheme_cursor
+git clone https://github.com/pietrobonomo/marketinghackers-landing-generator.git
+cd marketinghackers-landing-generator
 ```
 
 ### 2. Installa le Dipendenze
@@ -137,7 +155,7 @@ Collega il repository a [Vercel](https://vercel.com) per deploy automatico.
 ## 📁 Struttura del Progetto
 
 ```
-landing_page_scheme_cursor/
+marketinghackers-landing-generator/
 ├── .cursor/rules/          ← Istruzioni per l'AI agent
 ├── app/
 │   ├── layout.tsx          ← Font e configurazione
@@ -289,6 +307,16 @@ Aiutiamo imprenditori e brand a scalare la produzione di contenuti marketing con
 
 ---
 
+## ⭐ Supporta il Progetto
+
+Se questo strumento ti è utile:
+
+1. **Lascia una ⭐ stella** su GitHub - ci aiuta a crescere!
+2. **Condividilo** con altri marketer e imprenditori
+3. **Seguici** su [marketinghackers.it](https://marketinghackers.it) per altri strumenti AI
+
+---
+
 ## 📄 Licenza
 
 MIT License - Usa, modifica, distribuisci liberamente.
@@ -297,4 +325,8 @@ MIT License - Usa, modifica, distribuisci liberamente.
 
 <p align="center">
   <strong>Fatto con ❤️ da <a href="https://marketinghackers.it">Marketing Hackers</a></strong>
+  <br><br>
+  <a href="https://github.com/pietrobonomo/marketinghackers-landing-generator/stargazers">
+    <img src="https://img.shields.io/github/stars/pietrobonomo/marketinghackers-landing-generator?style=social" alt="GitHub Stars">
+  </a>
 </p>
