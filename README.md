@@ -8,8 +8,8 @@
   <a href="https://marketinghackers.it">
     <img src="https://img.shields.io/badge/Made%20by-Marketing%20Hackers-blue?style=for-the-badge" alt="Made by Marketing Hackers">
   </a>
-  <a href="https://github.com/pietrobonomo/marketinghackers-landing-generator/stargazers">
-    <img src="https://img.shields.io/github/stars/pietrobonomo/marketinghackers-landing-generator?style=for-the-badge&color=yellow" alt="GitHub Stars">
+  <a href="https://github.com/pietrobonomo/marketing-hackers-landing_page_generator/stargazers">
+    <img src="https://img.shields.io/github/stars/pietrobonomo/marketing-hackers-landing_page_generator?style=for-the-badge&color=yellow" alt="GitHub Stars">
   </a>
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" alt="Next.js">
@@ -96,8 +96,8 @@ Agent fa: split('•') → 3 features con name esatto
 ### 1. Clona il Repository
 
 ```bash
-git clone https://github.com/pietrobonomo/marketinghackers-landing-generator.git
-cd marketinghackers-landing-generator
+git clone https://github.com/pietrobonomo/marketing-hackers-landing_page_generator.git
+cd marketing-hackers-landing_page_generator
 ```
 
 ### 2. Installa le Dipendenze
@@ -155,7 +155,7 @@ Collega il repository a [Vercel](https://vercel.com) per deploy automatico.
 ## 📁 Struttura del Progetto
 
 ```
-marketinghackers-landing-generator/
+marketing-hackers-landing_page_generator/
 ├── .cursor/rules/          ← Istruzioni per l'AI agent
 ├── app/
 │   ├── layout.tsx          ← Font e configurazione
@@ -326,7 +326,7 @@ MIT License - Usa, modifica, distribuisci liberamente.
 <p align="center">
   <strong>Fatto con ❤️ da <a href="https://marketinghackers.it">Marketing Hackers</a></strong>
   <br><br>
-  <a href="https://github.com/pietrobonomo/marketinghackers-landing-generator/stargazers">
-    <img src="https://img.shields.io/github/stars/pietrobonomo/marketinghackers-landing-generator?style=social" alt="GitHub Stars">
+  <a href="https://github.com/pietrobonomo/marketing-hackers-landing_page_generator/stargazers">
+    <img src="https://img.shields.io/github/stars/pietrobonomo/marketing-hackers-landing_page_generator?style=social" alt="GitHub Stars">
   </a>
 </p>
